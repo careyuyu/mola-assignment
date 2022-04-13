@@ -1,0 +1,12 @@
+.table td {
+    text-align: center;
+ }
+
+ .table td {
+    border-style: none;
+ }
+
+ input[type=radio] {
+    width: 17px;
+    height: 17px;
+}

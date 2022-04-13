@@ -1,0 +1,42 @@
+.navbar {
+    background: linear-gradient(90deg,#30434f,grey);
+    margin-bottom: 0;
+    width: 100%;
+    top: 0;
+    padding: 0 10px;
+    height: 60px;
+    box-shadow: 0 10px 25px rgba(0,0,0,.2);
+}
+
+a:hover {
+    cursor: pointer;
+    color: #000!important;
+    background: #dfe7ec;
+}
+
+a:link {text-decoration: none}
+
+.nav-link-class, .surveyNav {
+    display: inline-block;
+    
+}
+
+.navbar-nav .active {
+    color: #000!important;
+    background: #dfe7ec;
+}
+
+.nav-link-class {
+    
+    font-size: 14px!important;
+    color: #fff!important;
+    padding: 20px!important;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+.changeFloat {
+    float: right;
+}
